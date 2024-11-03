@@ -8,7 +8,7 @@
             <router-link to="/">Home</router-link>
           </li>
           <li>
-            <router-link to="/portofolio">Portofolio</router-link>
+            <router-link to="/layanan">Layanan</router-link>
           </li>
           <li>
             <router-link to="/faq">FAQ</router-link>

@@ -10,9 +10,9 @@
       </div>
       <div class="footer__item">
         <h2>HUBUNGI DEEPAY</h2>
-        <a>FAQ</a>
-        <a>Portofolio</a>
-        <a>Kontak</a>
+        <router-link to="/faq">FAQ</router-link>
+        <router-link to="/layanan">Layanan</router-link>
+        <router-link to="/kontak">Kontak</router-link>
       </div>
       <div class="footer__item">
         <h2>HUBUNGI DEEPAY</h2>

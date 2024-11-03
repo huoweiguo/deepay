@@ -32,6 +32,14 @@ const routes = [
     meta: {
       title: 'Portofolio'
     }
+  },
+  {
+    path: '/layanan',
+    name: 'Layanan',
+    component: () => import('@/views/Layanan/index.vue'),
+    meta: {
+      title: 'Layanan'
+    }
   }
 ]
 
