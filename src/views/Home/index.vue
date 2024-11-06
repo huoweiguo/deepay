@@ -22,11 +22,7 @@
       >
         <swiper-slide>
           <div class="swiper__item">
-            <img
-              width="489"
-              src="@/assets/20401285_Tiny_people_protecting_social_media_accounts_with_shield.jpg"
-              alt=""
-            />
+            <img width="489" src="@/assets/rb_1651.png" alt="" />
             <div class="swiper__item__title">
               <p>Your reliable partner</p>
               <p>for all things IT</p>
