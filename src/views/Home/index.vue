@@ -25,7 +25,7 @@
             <img width="489" src="@/assets/rb_1651.png" alt="" />
             <div class="swiper__item__title">
               <p>Your reliable partner</p>
-              <p>for all things IT</p>
+              <p>forall things IT</p>
               <p>and digital solutions.</p>
               <!-- <p>Iklan. </p>
               <p>No Repot. </p>
@@ -36,23 +36,20 @@
         </swiper-slide>
         <swiper-slide>
           <div class="swiper__item">
-            <img src="@/assets/web-1.png" alt="" />
+            <img src="@/assets/rb_4403.png" alt="" />
             <div class="swiper__item__title">
-              <p>Website.</p>
-              <p>No Repot.</p>
-              <p>No Rempong.</p>
-              <a>Info Pricelist</a>
+              <p>Empowering Your Digital Transformation.</p>
+              <!-- <a>Info Pricelist</a> -->
             </div>
           </div>
         </swiper-slide>
         <swiper-slide>
           <div class="swiper__item">
-            <img src="@/assets/web-1.png" alt="" />
+            <img src="@/assets/rb_2453.png" alt="" />
             <div class="swiper__item__title">
-              <p>Branding.</p>
-              <p>No Repot.</p>
-              <p>No Rempong.</p>
-              <a>Info Pricelist</a>
+              <p>Reliable IT Solutions for a Dynamic World.</p>
+              <!-- <p>No Rempong.</p>
+              <a>Info Pricelist</a> -->
             </div>
           </div>
         </swiper-slide>
@@ -202,7 +199,7 @@
     <!--模块5-->
     <div class="module__part5">
       <div class="module__part5__inner">
-        <img src="../../assets/web-b.webp" />
+        <img src="../../assets/rb_3158.png" />
         <div class="modle__part5__content">
           <p>Your reliable partner</p>
           <p>for all things IT</p>
