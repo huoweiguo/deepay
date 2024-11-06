@@ -5,19 +5,19 @@
 
     <!--内容-->
     <div class="kontak__container">
-      <div class="kontak__title">kontak kami</div>
+      <div class="kontak__title">CONTACT US</div>
       <div class="kontak__form">
-        <h2>informasi kontak</h2>
-        <p><img src="../../assets/phone_05.svg" alt=""> 0812-3456-7890</p>
-        <p><img src="../../assets/message.svg" alt="">DEEPAY@google.com</p>
-        <p><img src="../../assets/position-fill.svg" alt="">Jl. Wologito Tengah I No.1, RT.7/RW.6, Kembangarum, Kec.
-          Semarang Barat, Kota Semarang, Jawa Tengah 50183</p>
+        <h2>Contact information</h2>
+        <p><img src="../../assets/phone_05.svg" alt="" /> +62 8333737211</p>
+        <p><img src="../../assets/message.svg" alt="" />cs@deepay.com</p>
+        <!-- <p><img src="../../assets/position-fill.svg" alt="">Jl. Wologito Tengah I No.1, RT.7/RW.6, Kembangarum, Kec.
+          Semarang Barat, Kota Semarang, Jawa Tengah 50183</p> -->
 
-        <h3>kirimkan pesan</h3>
-        <p><input type="text" placeholder="Nama"></p>
-        <p><input type="text" placeholder="Email"></p>
-        <p><textarea type="text" placeholder="Pesan"></textarea></p>
-        <a class="kirim__button">Kirim</a>
+        <h3>Sent Request</h3>
+        <p><input type="text" placeholder="Name" /></p>
+        <p><input type="text" placeholder="Email" /></p>
+        <p><textarea type="text" placeholder="information"></textarea></p>
+        <a class="kirim__button">Sent</a>
       </div>
     </div>
 
@@ -27,10 +27,8 @@
 </template>
 
 <script setup>
-import Navbar from '@/components/Navbar.vue';
-import Bottom from '@/components/bottom.vue';
-
-
+import Navbar from "@/components/Navbar.vue";
+import Bottom from "@/components/bottom.vue";
 </script>
 
 <style lang="scss" scoped>
@@ -43,7 +41,7 @@ import Bottom from '@/components/bottom.vue';
     font-size: 50px;
     font-weight: 800;
     text-transform: uppercase;
-    color: #254DA7;
+    color: #254da7;
     margin-bottom: 50px;
   }
 
@@ -56,7 +54,7 @@ import Bottom from '@/components/bottom.vue';
       font-size: 25px;
       font-weight: 700;
       text-transform: capitalize;
-      color: #254DA7;
+      color: #254da7;
       margin-bottom: 20px;
     }
 
@@ -88,14 +86,14 @@ import Bottom from '@/components/bottom.vue';
         width: 100%;
         height: 40px;
         padding: 0 10px;
-        border: 1px solid #69727D;
+        border: 1px solid #69727d;
       }
 
       textarea {
         width: 100%;
         height: 100px;
         padding: 10px;
-        border: 1px solid #69727D;
+        border: 1px solid #69727d;
       }
     }
 
@@ -107,7 +105,7 @@ import Bottom from '@/components/bottom.vue';
       text-align: center;
       color: #fff;
       border-radius: 20px;
-      background-color: #254DA7;
+      background-color: #254da7;
       font-size: 16px;
       font-weight: 400;
       cursor: pointer;

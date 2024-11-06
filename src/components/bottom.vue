@@ -3,21 +3,25 @@
     <div class="footer__context">
       <div class="footer__item">
         <h2>DEEPAY</h2>
-        <p>Solusi branding yang mengedepankan kemudahan untuk pelanggan sesuai motto perusahaan “No Repot No Rempong”.
-          Dengan tim IT dan desain berpengalaman, Nore Digital Agency (NDA) siap melayani berbagai kebutuhan branding
-          mulai dari branding perusahaan (logo, company profile, social media content, dll), digital marketing, hingga
-          pembuatan website semua No Repot, No Rempong NDA.</p>
+        <p>
+          At Deepay, we specialize in providing top-notch IT services to help
+          you tackle challenges with your digital devices and software. Whether
+          it's troubleshooting, system optimization, or customized
+          configurations, we're here to ensure your technology works seamlessly
+          for you. From computer maintenance to personalized theme setups, we’re
+          committed to enhancing your digital experience.
+        </p>
       </div>
       <div class="footer__item">
         <h2>HUBUNGI DEEPAY</h2>
         <router-link to="/faq">FAQ</router-link>
-        <router-link to="/layanan">Layanan</router-link>
-        <router-link to="/kontak">Kontak</router-link>
+        <router-link to="/layanan">Service</router-link>
+        <router-link to="/kontak">Contact</router-link>
       </div>
       <div class="footer__item">
         <h2>HUBUNGI DEEPAY</h2>
-        <h4>cs@nore.web.id</h4>
-        <h4>+62 811-2772-788</h4>
+        <h4>cs@deepay.com</h4>
+        <h4>+62 8223737211</h4>
       </div>
     </div>
   </div>
@@ -26,7 +30,7 @@
 <style lang="scss" scoped>
 .footer__container {
   width: 100%;
-  background-color: #254DA7;
+  background-color: #254da7;
 
   .footer__context {
     width: 1215px;
@@ -41,7 +45,7 @@
     width: 380px;
 
     h2 {
-      color: #FFFFFF;
+      color: #ffffff;
       font-size: 32px;
       font-weight: 800;
       margin-bottom: 20px;
@@ -51,7 +55,7 @@
       font-size: 20px;
       font-weight: 600;
       color: #fff;
-      margin-bottom: 10px
+      margin-bottom: 10px;
     }
 
     a {
@@ -65,7 +69,7 @@
 
     p {
       text-align: left;
-      color: #FFFFFF;
+      color: #ffffff;
       font-size: 16px;
       font-weight: 400;
       line-height: 24px;

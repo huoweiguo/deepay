@@ -1,20 +1,22 @@
 <template>
   <div class="navbar__container">
     <div class="navbar__header">
-      <div><img src="../assets/logo.png" alt="DEEPAY" class="header__logo" /></div>
+      <div>
+        <img src="../assets/logo.png" alt="DEEPAY" class="header__logo" />
+      </div>
       <div class="navbar__header--menu">
         <ul>
           <li>
             <router-link to="/">Home</router-link>
           </li>
           <li>
-            <router-link to="/layanan">Layanan</router-link>
+            <router-link to="/layanan">Service</router-link>
           </li>
           <li>
             <router-link to="/faq">FAQ</router-link>
           </li>
           <li>
-            <router-link to="/kontak">Kontak</router-link>
+            <router-link to="/kontak">Contact</router-link>
           </li>
         </ul>
         <a class="navbar__header--primary">hubungi kami</a>
@@ -61,19 +63,18 @@
           padding-right: 27px;
 
           a {
-            color: #254DA7;
-            fill: #254DA7;
+            color: #254da7;
+            fill: #254da7;
             font-size: 24px;
             font-weight: bolder;
           }
-
         }
       }
 
       .navbar__header--primary {
         font-weight: bolder;
         text-transform: uppercase;
-        background-color: #254DA7;
+        background-color: #254da7;
         border-radius: 47px 47px 47px 47px;
         padding: 20px 40px 20px 40px;
         color: #fff;
