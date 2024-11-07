@@ -319,54 +319,54 @@ const modules = [A11y, Autoplay];
         background-image: url(../../assets/11098.jpg);
         background-size: cover;
 
-        &:hover {
-          background-image: url(../../assets/web-2-hover.webp);
-        }
+        // &:hover {
+        //   background-image: url(../../assets/web-2-hover.webp);
+        // }
       }
 
       .item__bg2 {
         background-image: url(../../assets/11101.jpg);
         background-size: cover;
 
-        &:hover {
-          background-image: url(../../assets/web-3-hover.webp);
-        }
+        // &:hover {
+        //   background-image: url(../../assets/web-3-hover.webp);
+        // }
       }
 
       .item__bg3 {
         background-image: url(../../assets/10613714_10168.jpg);
         background-size: cover;
 
-        &:hover {
-          background-image: url(../../assets/web-4-hover.webp);
-        }
+        // &:hover {
+        //   background-image: url(../../assets/web-4-hover.webp);
+        // }
       }
 
       .item__bg4 {
         background-image: url(../../assets/11235955_11138.jpg);
         background-size: cover;
 
-        &:hover {
-          background-image: url(../../assets/web-5-hover.webp);
-        }
+        // &:hover {
+        //   background-image: url(../../assets/web-5-hover.webp);
+        // }
       }
 
       .item__bg5 {
         background-image: url(../../assets/11663914_20944706.jpg);
         background-size: cover;
 
-        &:hover {
-          background-image: url(../../assets/web-6-hover.webp);
-        }
+        // &:hover {
+        //   background-image: url(../../assets/web-6-hover.webp);
+        // }
       }
 
       .item__bg6 {
         background-image: url(../../assets/11668427_20943566.jpg);
         background-size: cover;
 
-        &:hover {
-          background-image: url(../../assets/web-7-hover.webp);
-        }
+        // &:hover {
+        //   background-image: url(../../assets/web-7-hover.webp);
+        // }
       }
     }
   }
@@ -410,9 +410,9 @@ const modules = [A11y, Autoplay];
         &.item__bg7 {
           background-image: url(../../assets/11667102_20944989.jpg);
 
-          &:hover {
-            background-image: url(../../assets/web-a-hover.webp);
-          }
+          // &:hover {
+          //   background-image: url(../../assets/web-a-hover.webp);
+          // }
         }
       }
     }
