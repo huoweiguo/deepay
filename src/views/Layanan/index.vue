@@ -48,7 +48,7 @@
                 efficiency, we deliver services that enhance productivity and
                 simplify the tech-related aspects of daily life and business.
               </div>
-              <a>Contact Us</a>
+              <a>contact us</a>
             </div>
             <div class="layanan__module__outer__left">
               <h3>Why Choose Us?</h3>
@@ -62,7 +62,7 @@
                 upgrade, we are here to guide you every step of the way.
               </div>
 
-              <a>Contact Us</a>
+              <a>contact us</a>
             </div>
           </div>
         </div>
@@ -95,7 +95,7 @@
                 </li>
                 <li>Price: $49/month</li>
               </ul>
-              <a>Gold Membership Plan</a>
+              <a>contact us</a>
             </div>
             <div class="layanan__module__outer__left">
               <h3>PRO</h3>
@@ -115,7 +115,7 @@
                 </li>
                 <li>Price: $79/month</li>
               </ul>
-              <a>KONTAK KAMI SEKARANG</a>
+              <a>contact us</a>
             </div>
           </div>
         </div>
