@@ -19,7 +19,7 @@
             <router-link to="/kontak">Contact</router-link>
           </li>
         </ul>
-        <a class="navbar__header--primary">hubungi kami</a>
+        <a class="navbar__header--primary">Contact Us</a>
       </div>
     </div>
   </div>
