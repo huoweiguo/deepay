@@ -5,21 +5,11 @@
 
     <div class="swiper__container">
       <!--轮播图-->
-      <swiper
-        class="swiper-container"
-        :slides-per-view="1"
-        :space-between="0"
-        @swiper="onSwiper"
-        @slideChange="onSlideChange"
-        :modules="modules"
-        :pagination="{ clickable: true }"
-        :autoplay="{
+      <swiper class="swiper-container" :slides-per-view="1" :space-between="0" @swiper="onSwiper"
+        @slideChange="onSlideChange" :modules="modules" :pagination="{ clickable: true }" :autoplay="{
           delay: 3500,
           disableOnInteraction: false,
-        }"
-        navigation
-        :loop="true"
-      >
+        }" navigation :loop="true">
         <swiper-slide>
           <div class="swiper__item">
             <img width="489" src="@/assets/rb_1651.png" alt="" />
@@ -87,14 +77,14 @@
       </div>
       <div class="module__right">
         <div class="module__right__text">
-          <p>Deepay</p>
+          <p>THE THIRD OCEAN TOWER</p>
           <!-- <p>NORE</p> -->
           <p>DIGITAL</p>
           <p>AGENCY.</p>
         </div>
         <div class="module__right__item">
           <div class="module__item__box item__bg7"></div>
-          <h2>TENTANG <br />DEEPAY</h2>
+          <h2>TENTANG <br />THE THIRD OCEAN TOWER</h2>
         </div>
       </div>
     </div>
@@ -204,7 +194,7 @@
           <p>Your reliable partner</p>
           <p>for all things IT</p>
           <p>and digital solutions.</p>
-          <a>deepaym.com</a>
+          <a>THE THIRD OCEAN TOWERm.com</a>
         </div>
       </div>
     </div>
@@ -245,7 +235,7 @@ const modules = [A11y, Autoplay];
     .swiper__item__title {
       p {
         color: #545454;
-        font-size: 71px;
+        font-size: 60px;
         font-weight: bolder;
         line-height: 84px;
       }
@@ -382,13 +372,13 @@ const modules = [A11y, Autoplay];
       p {
         text-align: right;
         color: #254da7;
-        font-size: 52px;
+        font-size: 40px;
         font-weight: 800;
       }
     }
 
     .module__right__item {
-      padding: 88px 46px;
+      padding: 67px 46px;
       background-color: #fff;
 
       h2 {

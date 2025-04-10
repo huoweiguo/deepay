@@ -8,8 +8,8 @@
       <div class="kontak__title">CONTACT US</div>
       <div class="kontak__form">
         <h2>Contact information</h2>
-        <p><img src="../../assets/phone_05.svg" alt="" /> +62 8333737211</p>
-        <p><img src="../../assets/message.svg" alt="" />cs@deepay.com</p>
+        <p><img src="../../assets/phone_05.svg" alt="" /> +92 03458744788</p>
+        <p><img src="../../assets/message.svg" alt="" />dpsuppkr@gmail.com</p>
         <!-- <p><img src="../../assets/position-fill.svg" alt="">Jl. Wologito Tengah I No.1, RT.7/RW.6, Kembangarum, Kec.
           Semarang Barat, Kota Semarang, Jawa Tengah 50183</p> -->
 

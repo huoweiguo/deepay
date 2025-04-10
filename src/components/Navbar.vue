@@ -2,7 +2,7 @@
   <div class="navbar__container">
     <div class="navbar__header">
       <div>
-        <img src="../assets/logo.png" alt="DEEPAY" class="header__logo" />
+        <!-- <img src="../assets/logo.png" alt="THE THIRD OCEAN TOWER" class="header__logo" /> -->
       </div>
       <div class="navbar__header--menu">
         <ul>

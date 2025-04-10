@@ -25,7 +25,7 @@
         <div class="layanan__module__box">
           <h2>About Us</h2>
           <div class="layanan__module__box__inner">
-            At Deepay, we are dedicated to providing expert IT solutions
+            At THE THIRD OCEAN TOWER, we are dedicated to providing expert IT solutions
             designed to simplify and enhance your digital experience. We
             understand that technology can be complex and overwhelming, which is
             why we offer a comprehensive range of IT services to meet the
@@ -48,12 +48,12 @@
                 efficiency, we deliver services that enhance productivity and
                 simplify the tech-related aspects of daily life and business.
               </div>
-              <a>contact us</a>
+              <!-- <a>contact us</a> -->
             </div>
             <div class="layanan__module__outer__left">
               <h3>Why Choose Us?</h3>
               <div class="layanan__module__text">
-                With Deepay, you gain access to a team of experienced IT
+                With THE THIRD OCEAN TOWER, you gain access to a team of experienced IT
                 professionals who are passionate about helping clients achieve a
                 seamless, optimized digital experience. We stand out for our
                 personalized approach, adaptability to different systems and
@@ -62,7 +62,7 @@
                 upgrade, we are here to guide you every step of the way.
               </div>
 
-              <a>contact us</a>
+              <!-- <a>contact us</a> -->
             </div>
           </div>
         </div>
@@ -95,7 +95,7 @@
                 </li>
                 <li>Price: $49/month</li>
               </ul>
-              <a>contact us</a>
+              <!-- <a>contact us</a> -->
             </div>
             <div class="layanan__module__outer__left">
               <h3>PRO</h3>
@@ -115,7 +115,7 @@
                 </li>
                 <li>Price: $79/month</li>
               </ul>
-              <a>contact us</a>
+              <!-- <a>contact us</a> -->
             </div>
           </div>
         </div>

@@ -2,9 +2,9 @@
   <div class="footer__container">
     <div class="footer__context">
       <div class="footer__item">
-        <h2>DEEPAY</h2>
+        <h2>THE THIRD OCEAN TOWER</h2>
         <p>
-          At Deepay, we specialize in providing top-notch IT services to help
+          At THE THIRD OCEAN TOWER, we specialize in providing top-notch IT services to help
           you tackle challenges with your digital devices and software. Whether
           it's troubleshooting, system optimization, or customized
           configurations, we're here to ensure your technology works seamlessly
@@ -13,15 +13,15 @@
         </p>
       </div>
       <div class="footer__item">
-        <h2>HUBUNGI DEEPAY</h2>
+        <h2>HUBUNGI THE THIRD OCEAN TOWER</h2>
         <router-link to="/faq">FAQ</router-link>
         <router-link to="/layanan">Service</router-link>
         <router-link to="/kontak">Contact</router-link>
       </div>
       <div class="footer__item">
-        <h2>HUBUNGI DEEPAY</h2>
-        <h4>cs@deepay.com</h4>
-        <h4>+62 8223737211</h4>
+        <h2>HUBUNGI THE THIRD OCEAN TOWER</h2>
+        <h4>dpsuppkr@gmail.com</h4>
+        <h4>+92 03458744788</h4>
       </div>
     </div>
   </div>
