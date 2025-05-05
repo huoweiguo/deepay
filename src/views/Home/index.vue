@@ -194,7 +194,7 @@
           <p>Your reliable partner</p>
           <p>for all things IT</p>
           <p>and digital solutions.</p>
-          <a>dpsuppkr@gmail.com</a>
+          <!-- <a>dpsuppkr@gmail.com</a> -->
         </div>
       </div>
     </div>
