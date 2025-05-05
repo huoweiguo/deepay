@@ -17,6 +17,9 @@
         <router-link to="/faq">FAQ</router-link>
         <router-link to="/layanan">Service</router-link>
         <router-link to="/kontak">Contact</router-link>
+        <router-link to="/condition">Terms and condition</router-link>
+        <router-link to="/privacy">Privacy policy</router-link>
+        <router-link to="/refund">Refund policy</router-link>
       </div>
       <div class="footer__item">
         <h2>HUBUNGI THE THIRD OCEAN TOWER</h2>
@@ -79,3 +82,5 @@
   }
 }
 </style>
+<script setup lang="ts">
+</script>
