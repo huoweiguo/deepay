@@ -93,7 +93,7 @@
                   Promo: Sign up now and receive 20% off on your first system
                   reinstallation or free data recovery for up to 50GB.
                 </li>
-                <li>Price: $49/month</li>
+                <li>Price: ₨13,800/month</li>
               </ul>
               <!-- <a>contact us</a> -->
             </div>
@@ -113,7 +113,7 @@
                   Promo: Purchase a 6-month plan and get one month free, plus a
                   complimentary hardware upgrade assessment.
                 </li>
-                <li>Price: $79/month</li>
+                <li>Price: ₨17,200/month</li>
               </ul>
               <!-- <a>contact us</a> -->
             </div>
