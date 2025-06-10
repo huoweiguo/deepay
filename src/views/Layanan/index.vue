@@ -93,7 +93,7 @@
                   Promo: Sign up now and receive 20% off on your first system
                   reinstallation or free data recovery for up to 50GB.
                 </li>
-                <li>Price: $49/month</li>
+                <li>Price: ₨13,800/month</li>
               </ul>
               <!-- <a>contact us</a> -->
             </div>
@@ -113,8 +113,45 @@
                   Promo: Purchase a 6-month plan and get one month free, plus a
                   complimentary hardware upgrade assessment.
                 </li>
-                <li>Price: $79/month</li>
+                <li>Price: ₨17,200/month</li>
               </ul>
+              <!-- <a>contact us</a> -->
+            </div>
+          </div>
+
+          <div class="layanan__module__outer">
+            <div class="layanan__module__outer__left">
+              <h3>How to Avail Our Services</h3>
+              <ul>
+                <li>
+                  Browse our service page and select the service you need.
+                </li>
+                <li>
+                  Submit a service request form or contact us directly through the provided channels.
+                </li>
+                <li>
+                  After confirming the details and pricing, proceed with the payment.
+                </li>
+                <li>We will initiate and deliver the service within the agreed timeframe, ensuring efficiency and professionalism.</li>
+              </ul>
+              <!-- <a>contact us</a> -->
+            </div>
+            <div class="layanan__module__outer__left">
+              <h3>Payment Methods</h3>
+              <div class="layanan__module__text">
+                We accept the following payment methods:
+              </div>
+              <ul>
+                <li>
+                  Credit/Debit Cards (Visa, MasterCard, American Express)
+                </li>
+                <li>
+                  PayPal
+                </li>
+                <li>Bank Transfer (please contact us for account details before payment)</li>
+                <li>Cryptocurrency (available for select services – please inquire)</li>
+              </ul>
+              All payments must be completed before service delivery. We ensure a secure and reliable payment process.
               <!-- <a>contact us</a> -->
             </div>
           </div>

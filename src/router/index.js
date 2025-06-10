@@ -40,7 +40,31 @@ const routes = [
     meta: {
       title: 'Layanan'
     }
-  }
+  },
+  {
+    path: '/condition',
+    name: 'Condition',
+    component: () => import('@/views/Condition/index.vue'),
+    meta: {
+      title: 'Condition'
+    }
+  },
+  {
+    path: '/privacy',
+    name: 'Privacy',
+    component: () => import('@/views/Privacy/index.vue'),
+    meta: {
+      title: 'Privacy'
+    }
+  },
+  {
+    path: '/refund',
+    name: 'Refund',
+    component: () => import('@/views/Refund/index.vue'),
+    meta: {
+      title: 'Refund'
+    }
+  },
 ]
 
 const router = createRouter({
