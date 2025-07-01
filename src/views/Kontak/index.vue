@@ -14,7 +14,7 @@
           Semarang Barat, Kota Semarang, Jawa Tengah 50183</p> -->
         <div>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1660.287592317301!2d72.99722628889143!3d33.668167725628614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38df951e2877b1bb%3A0x1136b481e7ca64a8!2sSaiban%20Town%20(PVT)office%20no%209%203rd%20floor%20Al%20Anayat%20Mall%20G-11%20Markaz%20islamabad!5e0!3m2!1sen-US!2sjp!4v1749557636368!5m2!1sen-US!2sjp"
+            src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d6641.136320158137!2d72.99366040533751!3d33.66834968654159!3m2!1i1024!2i768!4f13.1!2m1!1sNo%2030%20Floor%203%20Anayat%20Mall%20Plaza%20G11%20Markaz%20Islamabad!5e0!3m2!1szh-CN!2ssg!4v1751384206205!5m2!1szh-CN!2ssg"
             width="520" height="380" style="border:0;" allowfullscreen="" loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>

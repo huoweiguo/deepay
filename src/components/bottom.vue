@@ -25,7 +25,7 @@
         <h2>HUBUNGI THE THIRD OCEAN TOWER</h2>
         <h4>dpsuppkr@gmail.com</h4>
         <h4>+92 03458744788</h4>
-        <h4>Office No 30 Floor 3 Anayat Mall Plaza G11 Markaz Islamabad</h4>
+        <h4>The Third Ocean Tower Private Limited Office No 30 Floor 3 Anayat Mall Plaza G11 Markaz Islamabad</h4>
       </div>
     </div>
   </div>
@@ -34,7 +34,7 @@
 <style lang="scss" scoped>
 .footer__container {
   width: 100%;
-  background-color: #254da7;
+  background-color: #ffffff;
 
   .footer__context {
     width: 1215px;
@@ -49,7 +49,7 @@
     width: 380px;
 
     h2 {
-      color: #ffffff;
+      color: #000000;
       font-size: 32px;
       font-weight: 800;
       margin-bottom: 20px;
@@ -58,13 +58,13 @@
     h4 {
       font-size: 20px;
       font-weight: 600;
-      color: #fff;
+      color: #000000;
       margin-bottom: 10px;
     }
 
     a {
       display: block;
-      color: #fff;
+      color: #000000;
       font-size: 16px;
       font-weight: 600;
       margin-bottom: 10px;
@@ -73,7 +73,7 @@
 
     p {
       text-align: left;
-      color: #ffffff;
+      color: #000000;
       font-size: 16px;
       font-weight: 400;
       line-height: 24px;
