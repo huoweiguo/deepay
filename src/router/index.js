@@ -65,6 +65,14 @@ const routes = [
       title: 'Refund'
     }
   },
+  {
+    path: '/details',
+    name: 'UserInfo',
+    component: () => import('@/views/details/index.vue'),
+    meta: {
+      title: 'UserInfo'
+    }
+  }
 ]
 
 const router = createRouter({

@@ -132,7 +132,8 @@
                 <li>
                   After confirming the details and pricing, proceed with the payment.
                 </li>
-                <li>We will initiate and deliver the service within the agreed timeframe, ensuring efficiency and professionalism.</li>
+                <li>We will initiate and deliver the service within the agreed timeframe, ensuring efficiency and
+                  professionalism.</li>
               </ul>
               <!-- <a>contact us</a> -->
             </div>
@@ -255,6 +256,7 @@ import Bottom from "@/components/bottom.vue";
             font-size: 16px;
             color: #545454;
             font-weight: 400;
+            line-height: 24px;
           }
 
           ul {
@@ -268,6 +270,7 @@ import Bottom from "@/components/bottom.vue";
               margin-bottom: 10px;
               background: url("../../assets/check.svg") no-repeat left center;
               background-size: 20px 20px;
+              line-height: 24px;
             }
           }
 
