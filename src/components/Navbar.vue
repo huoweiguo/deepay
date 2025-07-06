@@ -185,7 +185,7 @@ const resetSubmit = () => {
 
   if (forgetParams.otp.replace(/\s/g, '') == '') {
     $toast.open({
-      message: '请输入验证码',
+      message: 'Please enter the verification code',
       type: 'warning',
       position: 'top'
     })
@@ -194,7 +194,7 @@ const resetSubmit = () => {
 
   if (forgetParams.password.replace(/\s/g, '') == '') {
     $toast.open({
-      message: '请输入密码',
+      message: 'Please input a password',
       type: 'warning',
       position: 'top'
     })
@@ -247,7 +247,7 @@ const sendCode = () => {
     sendLoading.value = false
     if (res.code === 200) {
       $toast.open({
-        message: '发送成功',
+        message: 'Successfully sent',
         type: 'success',
         position: 'top'
       })
@@ -293,7 +293,7 @@ const sendForgotCode = () => {
     sendLoading.value = false
     if (res.code === 200) {
       $toast.open({
-        message: '发送成功',
+        message: 'Successfully sent',
         type: 'success',
         position: 'top'
       })

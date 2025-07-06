@@ -32,7 +32,7 @@
         <div class="user_item">
           <label>Wallet binding status</label>
           <span><template v-if="userInfo.email">{{ userInfo.easypaisa_account == '' ? 'unbinded' : 'binded'
-              }}</template></span>
+          }}</template></span>
           <div>
             <template v-if="userInfo.email">
               <a @click="showBindAccount('bindWallet')" v-if="userInfo.easypaisa_account == ''">to bind</a>
@@ -290,7 +290,7 @@ const sendCode = (email, type) => {
     sendLoading.value = false
     if (res.code === 200) {
       $toast.open({
-        message: '验证码发送成功',
+        message: 'Verification code sent successfully',
         type: 'success',
         position: 'top'
       })
